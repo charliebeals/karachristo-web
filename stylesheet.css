@@ -27,7 +27,8 @@ header {
   text-align: center;
   width: auto;
   height: 10em;
-  background:  url(images/logo.png) no-repeat center bottom;
+  /* Hide the logo until I can find something better*/
+  /*background:  url(images/logo.png) no-repeat center bottom;*/
   background-size: 8em;
 }
 nav {
@@ -178,7 +179,7 @@ footer {
 @media screen and (min-width: 512px) {
     header {
         height:11em;
-        background:  url(images/logo.png) no-repeat center bottom;
+        /*background:  url(images/logo.png) no-repeat center bottom;*/
         background-size: 15em;
     }
 
@@ -218,7 +219,8 @@ footer {
 @media screen and (min-width:600px){
     header {
       height:11em;
-      background:  url(images/logo.png) no-repeat center bottom;
+      /* Hide the logo until I can find something better 
+      background:  url(images/logo.png) no-repeat center bottom; */
       background-size: 20em;
     }
     main {
